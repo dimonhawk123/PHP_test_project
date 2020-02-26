@@ -1,0 +1,7 @@
+С сайта siteName отправлено сообщение:
+
+                ФИО: login
+
+                E-mail: gdg@fdh.sdg
+
+                Файл: H:/OpenServer/OSPanel/domains/codingclass.local/upload/
